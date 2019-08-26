@@ -1,0 +1,29 @@
+h1 {
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+nav {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    float: right;
+}
+
+h2 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+img {
+    height: 200px;
+    width: 50%;
+    border-radius: 50%;
+}
+
+p {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+footer {
+
+}
+
