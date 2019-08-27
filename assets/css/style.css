@@ -42,14 +42,14 @@ header {
 h2 {
     color: #4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    margin-left: 70px;
+    margin-left: 65px;
     margin-top: 20px;
     border-bottom-style: solid;
 }
 
 img {
     height: 150px;
-    width: 15%;
+    width: 16%;
     border-radius: 50%;
     float: left;
     margin: 30px;
