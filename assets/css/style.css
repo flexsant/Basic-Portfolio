@@ -13,13 +13,25 @@ body {
 }
 
 h1 {
-    color: white;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: lightcoral;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
     font-size: 30px;
-    margin-left: 160px;
+    font-weight: 100;
+    margin-left: 20px;
     margin-top: 0px;
-    font-size: 40px;
+    font-size: 30px;
     padding: 20px;
+}
+
+a {
+    color: white;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+    font-weight: 100;
+    text-decoration: none;
+}
+
+a:hover {
+    color: lightcoral;
 }
 
 #nav {
@@ -32,10 +44,6 @@ h1 {
     word-spacing: 18px;
 }
 
-#nav:hover {
-    color: lightcoral;
-}
-
 .clearfix {
     margin: 20px;
     overflow: auto;
@@ -43,16 +51,17 @@ h1 {
 
 header {
     background-color: transparent;
-    color: #777777;
     display: flex;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+    font-weight: 100;
 }
 
 h2 {
     border-bottom-style: solid;
-    color: #4aaaa5;
-    font-family: 'Georgia', Times, Times New Roman, serif;
-    margin-left: 65px;
+    color: lightcoral;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+    font-weight: 100;
+    margin-left: 100px;
     margin-top: 20px;
 }
 
@@ -67,6 +76,7 @@ img {
 p {
     color: #777777;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-weight: 100;
     margin: 20px;
     margin-top: 20px;
 }
@@ -74,7 +84,7 @@ p {
 footer {
     background-color: transparent;
     clear: both; 
-    color: white;
+    color: lightseagreen;
     font-size: 10px;
     height: 20px;
     margin-bottom: 0px;
