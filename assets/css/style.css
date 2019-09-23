@@ -1,5 +1,5 @@
 body {
-    background-image: url("../images/boatsBaja.jpg");
+    background-image: url("../images/People-111-2.jpg");
     background-size: cover;
     height: 100%;
     overflow: hidden; 
@@ -13,7 +13,7 @@ body {
 }
 
 h1 {
-    color: lightcoral;
+    color: white;
     font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
     font-size: 30px;
     font-weight: 100;
@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-    color: lightcoral;
+    color: green;
 }
 
 #nav {
@@ -58,10 +58,10 @@ header {
 
 h2 {
     border-bottom-style: solid;
-    color: lightcoral;
+    color: white;
     font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
     font-weight: 100;
-    margin-left: 100px;
+    margin-left: 20px;
     margin-top: 20px;
 }
 
@@ -74,7 +74,7 @@ img {
 }
 
 p {
-    color: #777777;
+    color: black;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-weight: 100;
     margin: 20px;
