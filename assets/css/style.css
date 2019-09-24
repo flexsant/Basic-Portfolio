@@ -91,7 +91,7 @@ footer {
 }
 
 #wrap-container {
-    margin-left: 250px;
+    margin-left: 260px;
     width: 960px;
 }
 
@@ -100,8 +100,16 @@ footer {
     margin: 30px;
 }
 
-h4 {
+h2 {
+    color: white;
     font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+    font-size: 23px;
+    font-weight: 200;
+    text-align: center;
+}
+h4 {
+    color: white;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+    font-size: 13px;
     font-weight: 100;
-
 }
