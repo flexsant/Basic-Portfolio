@@ -95,6 +95,7 @@ footer {
 
 /* Contact.html style */
 
-#contact-container {
-    style: inline;
+.portfolioImage {
+    height: auto;
+    width: 200px;
 }
