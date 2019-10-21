@@ -117,3 +117,43 @@ h4 {
     font-size: 13px;
     font-weight: 100;
 }
+
+@media only screen and (max-width:980px) {
+    #wrap-container {
+        margin: auto;
+        width: 700px;
+    }
+}
+
+@media only screen and (max-width:768px) {
+    #wrap-container {
+        margin: auto;
+        width:600px;
+    }
+    
+}
+
+@media only screen and (max-width:640px) {
+    #wrap-container {
+        margin: auto;
+        width:300px;
+    }
+    #header-h1 {
+        width: 100%;
+        margin: auto;
+    }
+   
+  nav {
+    /* Box-model */
+    width: 100%;
+    /* Positioning */
+    margin: 15px 0;
+    /* Typography */
+    text-align: center;
+  }
+    header {
+        width:640px;
+    }
+    
+}
+
