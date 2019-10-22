@@ -2,7 +2,7 @@ body {
     background-image: url("../images/People-111-2.jpg");
     background-size: cover;
     height: 100%;
-    overflow: hidden; 
+    overflow: scroll; 
 }
 
 .container {
